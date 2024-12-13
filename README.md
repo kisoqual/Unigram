@@ -11,8 +11,6 @@
     <br>
     <a href="https://www.microsoft.com/store/apps/9n97zckpd60q">Microsoft Store</a>
     &middot;
-    <a href="https://unigramdev.github.io">Direct Download</a>
-    <br>
     <a href="https://t.me/unigraminsiders">Insiders Group</a>
   </p>
 </p>
@@ -26,25 +24,22 @@ For feature requests, make sure to have read our [contributing guidelines](/CONT
 
 <a name="changelog"></a>
 ## Changelog
-Changelogs are provided on [our website](https://unigramdev.github.io), [Unigram News channel](https://t.me/unigram) and in the [releases section of our GitHub project](https://github.com/UnigramDev/Unigram/releases).
+Changelogs are provided in the [Unigram News channel](https://t.me/unigram) and in the [releases section of our GitHub project](https://github.com/UnigramDev/Unigram/releases).
 
 <a name="screenshots"></a>
 ## Screenshots
-![1](/Screenshots/Screen1.PNG)
-![2](/Screenshots/Screen3.PNG)
-
-## Beta versions
-If you want to have access to new features and bug fixes sooner, you can try our beta versions. In order to install them, download the latest `.msixbundle` file from [this channel](https://t.me/unigramappx). Remember to follow carefully the instructions in the first message.
+![A screenshot of the app with the chats list and a chat openned](/Screenshots/Screen1.PNG)
+![Screenshot of the Chat Settings page](/Screenshots/Screen3.PNG)
 
 ## Translations
-Unigram has 28 built-in languages and has access to unlimited packs using Telegram translations platform.
+Unigram has 29 built-in languages and has access to unlimited packs using Telegram translations platform.
 If you are wishing to improve or complete the current translations you can do it [here](https://translations.telegram.org/en/Unigram). You can also work on the translation of a missing language from there.
 
 ## Shortcuts
-We have a list of shortcuts to ease the use with a keyboard. An up-to-date list can be found [here](https://github.com/UnigramDev/Unigram/blob/develop/Documentation/Shortcuts.md).
+We have a list of shortcuts to ease the use with a keyboard. An up-to-date list can be found [here](/Documentation/Shortcuts.md).
 
-## Windows 10 N
-In order to be able to use Unigram in Windows 10 N, you will need Media Feature pack. To install it properly, go to ```Settings > Apps and Features > Add a feature.``` At this point, select ```Media Feature pack```, install it and reboot.
+## Windows 10/11 N
+In order to be able to use Unigram in Windows 10 N, you will need Media Feature pack. To install it properly, go to `Settings > Apps and Features > Add a feature.` At this point, select ```Media Feature pack```, install it and reboot.
 
 ## Privacy policy
 In order to guarantee a great user experience, Unigram uses some third party services:
